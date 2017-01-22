@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+100 Days Of Code - Log
 
 Day 1: January 21, 2017
 
@@ -15,4 +15,3 @@ Today's Progress: Adding in bootstrap to round out CSS usage for dynamic sites.
 Thoughts: The foundations are easy to understand, but I still struggle with understanding the implementation in the background.
 
 Link to work: [Responsive Design With Bootstrap](https://www.freecodecamp.com/challenges/use-responsive-design-with-bootstrap-fluid-containers[Calculator App](http://www.example.com)
-
